@@ -1,2 +1,2 @@
 # Posicionando-elementos-com-Flexbox
-Repositório dedicado aos estudos de Flexbox
+Repositório dedicado aos estudos com Flexbox
