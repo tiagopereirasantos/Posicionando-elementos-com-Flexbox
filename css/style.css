@@ -49,6 +49,7 @@ body {
 }
 
 .conteudoPrincipal-cursos-link {
+	width:203%;
 	height: 100px;
 	background-color: #FFF;
 	text-align: center;
